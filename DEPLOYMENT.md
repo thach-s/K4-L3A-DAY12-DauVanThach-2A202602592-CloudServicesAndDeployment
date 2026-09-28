@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Đậu Văn Thạch |
 | Mã học viên | 2A202602592 |
-| Repo | https://github.com/thach-s/K4-L3A-Day12-DauVanThach-2A202602592-CloudServicesAndDeployment |
+| Repo | https://github.com/thach-s/K4-L3A-DAY12-DauVanThach-2A202602592-CloudServicesAndDeployment |
 
 ## Service
 
